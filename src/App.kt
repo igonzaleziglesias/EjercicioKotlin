@@ -2,7 +2,7 @@
 import javax.swing.JOptionPane
 
 
-fun main() {
+fun main() {//prueba de funcinamiento dando valores y ejecutando
     val obx = Plantilla("Jose", "Baz Canarias", 31, 34)
     val obxX = Xogador("pepe", "Perez Perez", 3, 21, 1, "patata")
     val obxB = Adestrador("Carlos", "Martinez Baz", 32, 35, "244h")
